@@ -30,7 +30,7 @@
 |  3  |  3월 20일           |     문자열, Collection | [Lecture 3],[Practice 3]   |  [Assignment 3] |     |
 |  4  |  3월 27일           |    조건문,반복문  |  [Lecture 4],[Practice 4]   |  [Assignment 4] |     |
 |  5  |  4월 3일            |    함수, 클래스   |  [Lecture 5],[Practice 5]   |   [Assignment 5]   |     |
-|  6  |  4월 10일           |    Data     |                    |               |     |
+|  6  |  4월 10일           |    Data        |  [Lecture 6],[Practice 6] |   -            |     |
 |  7  |  4월 17일           |    데이터 전처리    |                    |               |     |
 |  8  |  4월 24일           |    데이터 시각화   |                    |               |     |
 |  -  |  휴강               |                |                    |               |     |
@@ -47,6 +47,7 @@
 [Lecture 3]: lecture/week-03
 [Lecture 4]: lecture/week-04
 [Lecture 5]: lecture/week-05
+[Lecture 5]: lecture/week-06
 
 
 [Assignment 1]: assignment/week-01
@@ -63,6 +64,8 @@
 [Practice 3]: practice/week-03
 [Practice 4]: practice/week-04
 [Practice 5]: practice/week-05
+[Practice 5]: practice/week-06
+
 
 
 
